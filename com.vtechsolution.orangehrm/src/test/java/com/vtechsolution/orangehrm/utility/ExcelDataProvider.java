@@ -76,29 +76,9 @@ public class ExcelDataProvider {
 			
 			for(int j=0; j<col; j++) {
 				
-				data[i][j] = workbook.getSheet(sheetname).getRow(i+1).getCell(j).toString();
-				
+				data[i][j] = workbook.getSheet(sheetname).getRow(i+1).getCell(j).toString();	
 			}
 		}
-		return data;
-		
-	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+		return data;	
+	}	
 }

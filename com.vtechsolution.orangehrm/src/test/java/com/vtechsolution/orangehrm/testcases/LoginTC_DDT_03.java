@@ -16,8 +16,7 @@ public class LoginTC_DDT_03 extends NewTestBase {
 	@Test(dataProvider="getData")
 	public void Login_DDT_TC(String username, String password) {
 		nlp = new NewLoginPage(driver);
-		
-		
+
 		nlp.enterusername(username);
 		nlp.enterpassword(password);
 		nlp.clickonbtn();

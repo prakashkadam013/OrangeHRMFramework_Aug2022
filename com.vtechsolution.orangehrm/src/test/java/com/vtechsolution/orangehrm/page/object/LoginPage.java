@@ -40,10 +40,10 @@ public class LoginPage {
 			return false;
 		}
 	}
-	
-	public void enterUsername(String username) {
-		
-		try {
+	                                               
+	public void enterUsername(String username) {   
+		                                           
+		try {                                      
 			txtUsername.sendKeys(username);
 
 		} catch (Exception e) {

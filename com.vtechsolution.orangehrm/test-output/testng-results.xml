@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-30T11:39:05 IST" name="Default suite" finished-at="2022-08-30T11:40:41 IST" duration-ms="95761">
+  <suite started-at="2022-09-05T11:26:44 IST" name="Default suite" finished-at="2022-09-05T11:28:00 IST" duration-ms="76225">
     <groups>
     </groups>
-    <test started-at="2022-08-30T11:39:05 IST" name="Default test" finished-at="2022-08-30T11:40:41 IST" duration-ms="95761">
+    <test started-at="2022-09-05T11:26:44 IST" name="Default test" finished-at="2022-09-05T11:28:00 IST" duration-ms="76225">
       <class name="com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03">
-        <test-method is-config="true" signature="Launchbrowser()[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-08-30T11:39:05 IST" name="Launchbrowser" finished-at="2022-08-30T11:39:32 IST" duration-ms="26906" status="PASS">
+        <test-method is-config="true" signature="Launchbrowser()[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-09-05T11:26:44 IST" name="Launchbrowser" finished-at="2022-09-05T11:26:55 IST" duration-ms="10947" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Launchbrowser -->
-        <test-method signature="Login_DDT_TC(java.lang.String,java.lang.String)[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-08-30T11:39:32 IST" name="Login_DDT_TC" data-provider="getData" finished-at="2022-08-30T11:39:37 IST" duration-ms="5142" status="PASS">
+        <test-method signature="Login_DDT_TC(java.lang.String,java.lang.String)[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-09-05T11:26:55 IST" name="Login_DDT_TC" data-provider="getData" finished-at="2022-09-05T11:26:58 IST" duration-ms="3410" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,15 +27,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login_DDT_TC -->
-        <test-method is-config="true" signature="closethebrowser()[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-08-30T11:39:37 IST" name="closethebrowser" finished-at="2022-08-30T11:39:41 IST" duration-ms="3262" status="PASS">
+        <test-method is-config="true" signature="closethebrowser()[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-09-05T11:26:58 IST" name="closethebrowser" finished-at="2022-09-05T11:27:03 IST" duration-ms="4131" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closethebrowser -->
-        <test-method is-config="true" signature="Launchbrowser()[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-08-30T11:39:41 IST" name="Launchbrowser" finished-at="2022-08-30T11:40:00 IST" duration-ms="19872" status="PASS">
+        <test-method is-config="true" signature="Launchbrowser()[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-09-05T11:27:03 IST" name="Launchbrowser" finished-at="2022-09-05T11:27:16 IST" duration-ms="13864" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Launchbrowser -->
-        <test-method signature="Login_DDT_TC(java.lang.String,java.lang.String)[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-08-30T11:40:00 IST" name="Login_DDT_TC" data-provider="getData" finished-at="2022-08-30T11:40:05 IST" duration-ms="4866" status="PASS">
+        <test-method signature="Login_DDT_TC(java.lang.String,java.lang.String)[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-09-05T11:27:16 IST" name="Login_DDT_TC" data-provider="getData" finished-at="2022-09-05T11:27:21 IST" duration-ms="4146" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -51,15 +51,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login_DDT_TC -->
-        <test-method is-config="true" signature="closethebrowser()[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-08-30T11:40:05 IST" name="closethebrowser" finished-at="2022-08-30T11:40:09 IST" duration-ms="3205" status="PASS">
+        <test-method is-config="true" signature="closethebrowser()[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-09-05T11:27:21 IST" name="closethebrowser" finished-at="2022-09-05T11:27:25 IST" duration-ms="4138" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closethebrowser -->
-        <test-method is-config="true" signature="Launchbrowser()[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-08-30T11:40:09 IST" name="Launchbrowser" finished-at="2022-08-30T11:40:20 IST" duration-ms="11782" status="PASS">
+        <test-method is-config="true" signature="Launchbrowser()[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-09-05T11:27:25 IST" name="Launchbrowser" finished-at="2022-09-05T11:27:35 IST" duration-ms="10508" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Launchbrowser -->
-        <test-method signature="Login_DDT_TC(java.lang.String,java.lang.String)[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-08-30T11:40:20 IST" name="Login_DDT_TC" data-provider="getData" finished-at="2022-08-30T11:40:22 IST" duration-ms="2106" status="PASS">
+        <test-method signature="Login_DDT_TC(java.lang.String,java.lang.String)[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-09-05T11:27:35 IST" name="Login_DDT_TC" data-provider="getData" finished-at="2022-09-05T11:27:38 IST" duration-ms="2863" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -75,15 +75,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login_DDT_TC -->
-        <test-method is-config="true" signature="closethebrowser()[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-08-30T11:40:22 IST" name="closethebrowser" finished-at="2022-08-30T11:40:26 IST" duration-ms="3207" status="PASS">
+        <test-method is-config="true" signature="closethebrowser()[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-09-05T11:27:38 IST" name="closethebrowser" finished-at="2022-09-05T11:27:42 IST" duration-ms="4143" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closethebrowser -->
-        <test-method is-config="true" signature="Launchbrowser()[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-08-30T11:40:26 IST" name="Launchbrowser" finished-at="2022-08-30T11:40:35 IST" duration-ms="9706" status="PASS">
+        <test-method is-config="true" signature="Launchbrowser()[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-09-05T11:27:42 IST" name="Launchbrowser" finished-at="2022-09-05T11:27:55 IST" duration-ms="12681" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Launchbrowser -->
-        <test-method signature="Login_DDT_TC(java.lang.String,java.lang.String)[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-08-30T11:40:35 IST" name="Login_DDT_TC" data-provider="getData" finished-at="2022-08-30T11:40:38 IST" duration-ms="2437" status="PASS">
+        <test-method signature="Login_DDT_TC(java.lang.String,java.lang.String)[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-09-05T11:27:55 IST" name="Login_DDT_TC" data-provider="getData" finished-at="2022-09-05T11:27:57 IST" duration-ms="2125" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -99,7 +99,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login_DDT_TC -->
-        <test-method is-config="true" signature="closethebrowser()[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-08-30T11:40:38 IST" name="closethebrowser" finished-at="2022-08-30T11:40:41 IST" duration-ms="3205" status="PASS">
+        <test-method is-config="true" signature="closethebrowser()[pri:0, instance:com.vtechsolution.orangehrm.testcases.LoginTC_DDT_03@55795845]" started-at="2022-09-05T11:27:57 IST" name="closethebrowser" finished-at="2022-09-05T11:28:00 IST" duration-ms="3209" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closethebrowser -->
